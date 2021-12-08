@@ -1,11 +1,11 @@
-![image](https://user-images.githubusercontent.com/92653239/145249814-fc3f5db4-cec5-4b6d-9edc-59d9570d31db.png)
+![image](https://user-images.githubusercontent.com/92653239/145250098-5ebe9bd7-cc1c-47e1-8e52-be9fc5e96b6a.png)
 
 
 # **Final-Project**: Customer segmentation study
-### -**Group members**: Mercedes Santana Rodriguez, Shushanik Hakobyan
-#### -**Objective**: The aim of the project is to perform customer segmentation analysis using a dataset from a retail store. Customer segmentation is a common technique to group customers in different segments based on similar characteristics. 
+### **Group members**: Mercedes Santana Rodriguez, Shushanik Hakobyan
+#### **Objective**: The aim of the project is to perform customer segmentation analysis using a dataset from a retail store. Customer segmentation is a common technique to group customers in different segments based on similar characteristics. 
 
-#### -**Data**: The data set consists of 2240 raws, 29 columns. The dataset is from Kaggle (source: https://www.kaggle.com/imakash3011/customer-personality-analysis). The variables and their description are provided below:
+#### **Data**: The data set consists of 2240 raws, 29 columns. The dataset is from Kaggle (source: https://www.kaggle.com/imakash3011/customer-personality-analysis). The variables and their description are provided below:
 
 
 #### People
@@ -47,11 +47,11 @@
 ##### NumStorePurchases: Number of purchases made directly in stores
 ##### NumWebVisitsMonth: Number of visits to company’s website in the last month
 
-#### -**Methodology**: Python and Tableau are the primary tools for the data analysis and visualization. Morever, Trello and Git shall be used for Project planning and management. 
-#### GIT: 
+#### **Methodology**: Python and Tableau are the primary tools for the data analysis and visualization. Morever, Trello and Git shall be used for Project planning and management. 
+#### GitHub: https://github.com/shushak/IronhackFinalProject 
 #### Trello: https://trello.com/b/iNsFFzxG/final-project
 
-#### -**Project Timeline**:
+#### **Project Timeline**:
 ##### 8/12/2021 Final project proposal 
 ##### 9/12/2021 Data exploring, cleaning and wrangling 
 ##### 10/12/2021 Exploratory Data Analysis, Clustering 
