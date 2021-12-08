@@ -45,11 +45,11 @@
 ##### NumStorePurchases: Number of purchases made directly in stores
 ##### NumWebVisitsMonth: Number of visits to company’s website in the last month
 
-#### **Methodology**: Python and Tableau are the primary tools for the data analysis and visualization. Morever, Trello and Git shall be used for Project planning and management. 
+#### 🔬 **Methodology**: Python and Tableau are the primary tools for the data analysis and visualization. Morever, Trello and Git shall be used for Project planning and management. 
 #### GitHub: https://github.com/shushak/IronhackFinalProject 
 #### Trello: https://trello.com/b/iNsFFzxG/final-project
 
-#### **Project Timeline**:
+#### 📅 **Project Timeline**:
 ##### 8/12/2021 Final project proposal 
 ##### 9/12/2021 Data exploring, cleaning and wrangling 
 ##### 10/12/2021 Exploratory Data Analysis, Clustering 
