@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/92653239/145250098-5ebe9bd7-cc1c-47e1-8e52-be9fc5e96b6a.png)
-
-
+![image](https://user-images.githubusercontent.com/92653239/145252930-5e3535f2-dc2d-4084-bad4-70eb582865ae.png)
 # **Final-Project**: Customer segmentation study
 ### **Group members**: Mercedes Santana Rodriguez, Shushanik Hakobyan
 #### **Objective**: The aim of the project is to perform customer segmentation analysis using a dataset from a retail store. Customer segmentation is a common technique to group customers in different segments based on similar characteristics. We can segment customers based on their buying behavior on the market. As we have a huge dataset, we will use machine learning algorithms to perform customer clustering. We will cluster customers on segments based on their behavior using the K-Means algorithm in Python.
