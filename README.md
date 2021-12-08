@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/92653239/145249814-fc3f5db4-cec5-4b6d-9edc-59d9570d31db.png)
+
+
 # **Final-Project**: Customer segmentation study
 ### -**Group members**: Mercedes Santana Rodriguez, Shushanik Hakobyan
 #### -**Objective**: The aim of the project is to perform customer segmentation analysis using a dataset from a retail store. Customer segmentation is a common technique to group customers in different segments based on similar characteristics. 
