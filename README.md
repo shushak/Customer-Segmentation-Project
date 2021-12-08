@@ -2,7 +2,7 @@
 ### -**Group members**: Mercedes Santana Rodriguez, Shushanik Hakobyan
 #### -**Objective**: The aim of the project is to perform customer segmentation analysis using a dataset from a retail store. Customer segmentation is a common technique to group customers in different segments based on similar characteristics. 
 
-#### -**Data**: The data set consists of 2240 raws, 29 columns. The dataset is from Kaggle (source: https://www.kaggle.com/imakash3011/customer-personality-analysis)
+#### -**Data**: The data set consists of 2240 raws, 29 columns. The dataset is from Kaggle (source: https://www.kaggle.com/imakash3011/customer-personality-analysis). The variables and their description are provided below:
 
 
 #### People
