@@ -45,7 +45,7 @@
 ##### NumStorePurchases: Number of purchases made directly in stores
 ##### NumWebVisitsMonth: Number of visits to company’s website in the last month
 
-#### 🔬 **Methodology**: Python and Tableau are the primary tools for the data analysis and visualization. Morever, Trello and Git shall be used for Project planning and management. 
+#### 🔬 **Methodology**: We will cluster customers on segments based on their behavior using the K-Means algorithm in Python. Tableau and Python are the primary tools for the data analysis and visualization. Morever, Trello and Git shall be used for Project planning and management. 
 #### GitHub: https://github.com/shushak/IronhackFinalProject 
 #### Trello: https://trello.com/b/iNsFFzxG/final-project
 
