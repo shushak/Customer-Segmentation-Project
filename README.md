@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/92653239/145252930-5e3535f2-dc2d-4084-bad4-70eb582865ae.png)
-
+![image](https://user-images.githubusercontent.com/92653239/145281163-a4bb7eff-a1d7-4310-8af9-923d7cf05db6.png)
 
 # **Customer Segmentation: Unsupervised Machine Learning**
 ### 👩‍💻👩‍💻 **Group members**: Shushan Hakobyan, Mercedes Santana Rodriguez
@@ -46,7 +45,7 @@
 ##### NumStorePurchases: Number of purchases made directly in stores
 ##### NumWebVisitsMonth: Number of visits to company’s website in the last month
 
-#### 🔬 **Methodology**: We will cluster customers on segments based on their behavior using the K-Means algorithm in Python. Tableau and Python are the primary tools for the data analysis and visualization. Morever, Trello and Git shall be used for Project planning and management. 
+#### 🔬 **Methodology**: We will cluster customers on segments based on their behavior using the K-Means algorithm in Python. Tableau and Python are the primary tools for the data analysis and visualization. Also, Trello and GitHub will be used for project planning and management. 
 #### GitHub: https://github.com/shushak/IronhackFinalProject 
 #### Trello: https://trello.com/b/iNsFFzxG/final-project
 
