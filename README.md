@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/92653239/145252930-5e3535f2-dc2d-4084-bad4-70eb582865ae.png)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 # **Customer Segmentation: Unsupervised Machine Learning**
 ### 👩‍💻👩‍💻 **Group members**: Shushan Hakobyan, Mercedes Santana Rodriguez
@@ -62,5 +61,5 @@
 ##### 16/12/2021 Finalize everything and perfect our pitch 
 ##### 17/12/2021 Rock the show 🎉
 
-
+![Alt Text](https://media.giphy.com/media/l49K1pIadY0cDai0o/giphy.gif)
 
