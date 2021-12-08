@@ -1,12 +1,11 @@
 ![image](https://user-images.githubusercontent.com/92653239/145252930-5e3535f2-dc2d-4084-bad4-70eb582865ae.png)
 # **Customer Segmentation: Unsupervised Machine Learning**
-### 👩‍💻 **Group members**: Shushan Hakobyan, Mercedes Santana Rodriguez
+### 👩‍💻👩‍💻 **Group members**: Shushan Hakobyan, Mercedes Santana Rodriguez
 #### 🔭 **Objective**: The aim of the project is to perform customer segmentation analysis using a dataset from a retail store. Customer segmentation is a common technique to group customers in different segments based on similar characteristics. We can segment customers based on their buying behavior on the market. As we have a huge dataset, we will use machine learning algorithms to perform customer clustering. We will cluster customers on segments based on their behavior using the K-Means algorithm in Python.
 
 #### 📈 **Data**: The data set consists of 2240 raws, 29 columns. The dataset is from Kaggle (source: https://www.kaggle.com/imakash3011/customer-personality-analysis). The variables and their description are provided below:
 
-
-#### People
+#### **People**
 
 ##### ID: Customer's unique identifier
 ##### Year_Birth: Customer's birth year
@@ -19,7 +18,7 @@
 ##### Recency: Number of days since customer's last purchase
 ##### Complain: 1 if the customer complained in the last 2 years, 0 otherwise
 
-#### Products
+#### **Products**
 
 ##### MntWines: Amount spent on wine in last 2 years
 ##### MntFruits: Amount spent on fruits in last 2 years
@@ -28,7 +27,7 @@
 ##### MntSweetProducts: Amount spent on sweets in last 2 years
 ##### MntGoldProds: Amount spent on gold in last 2 years
 
-#### Promotion
+#### **Promotion**
 
 ##### NumDealsPurchases: Number of purchases made with a discount
 ##### AcceptedCmp1: 1 if customer accepted the offer in the 1st campaign, 0 otherwise
@@ -38,7 +37,7 @@
 ##### AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise
 ##### Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
 
-##### Place
+##### **Place**
 
 ##### NumWebPurchases: Number of purchases made through the company’s website
 ##### NumCatalogPurchases: Number of purchases made using a catalogue
@@ -49,7 +48,8 @@
 #### GitHub: https://github.com/shushak/IronhackFinalProject 
 #### Trello: https://trello.com/b/iNsFFzxG/final-project
 
-#### 📅 **Project Timeline**:
+#### 📅 **Project Timeline**
+
 ##### 8/12/2021 Final project proposal 
 ##### 9/12/2021 Data exploring, cleaning and wrangling 
 ##### 10/12/2021 Exploratory Data Analysis, Clustering 
